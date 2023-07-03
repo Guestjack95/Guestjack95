@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World 👋
 
+I'm Jack Guest, an aspiring Data Scientist looking to being a career in Tech.
+
+I have recently completed a HyperionDev bootcamp in Data Science and Machine Learning.
+
+Welcome to my Github.
 <!--
 **Guestjack95/Guestjack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
